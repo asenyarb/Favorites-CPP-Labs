@@ -1,10 +1,3 @@
-# Favorites-CPP--Labs
-Repository with the most interesting С++ labs written in the first year of university
-## Structure
-- Every lab is located on its own branch. 
-- Master branch only includes `README.md` and default `.gitignore` for **Visual Studio 2017**.
-## Getting to the desired lab
-1. Clone or download repository: `git clone git@github.com:Eug-VS/Java-BSU.git`
-2. Checkout desired branch
-  * List all branches: `git branch -a`
-  * Checkout: `git checkout BRANCHNAME`
+# Template_classes_and_functions_lab
+## Task: 
+#### Write a function with a variable number of arguments of different types, which calculates the maximum among the arguments of the int type and located at odd places (numbering with 0). For example, the result of executing func(3, 2, 3.5, 4, 32, 'a', string("abc") ) will be an int type value equal to 4.
