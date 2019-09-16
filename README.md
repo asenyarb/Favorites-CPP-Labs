@@ -18,4 +18,6 @@
 - Rotate
 - Stretch out
 - Remove
-**WARNING!!! The task implementation is written using WinAPI. Make sure that your IDE supports it before trying to run the program**
+## WARNING!!!
+- **The task implementation is written using WinAPI. Make sure that your IDE supports it**
+- **Before running make sure C++17 Language Standart is enabled.** To do this go to Project-Properties-Configuration Properties-C/C++-Language, and choose C++17 Standart as C++ Language Standart
