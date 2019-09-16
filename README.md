@@ -1,14 +1,21 @@
-# Template_polynomial_class_lab
+# Figures_GUI
 ## Task: 
-#### Create a template polynomial class that supports:
-- Addition
-- Subtraction
-- Multiplication
-- Division (by both another polynomial and a number)
-- Swap of two polynomials
-#### The class must contain:
-- Iterator
-- Copy and move constructor
-- Copy and mov operator "="
-- Overloaded input and output operators ("<<" and ">>")
-#### The class must work with both standard types and custom classes
+#### Create a GUI that allows the user to create and interact with geometric shapes
+#### The list of available figures:
+- Point
+- Rectangle
+- Square
+- Circle
+- Triangle
+- Rectangle with diagonal
+- Circle with chord
+#### A list of actions available for each shape:
+- Create
+- Hide/show
+- Move
+- Shift by the x(y)-axis
+- Change color
+- Rotate
+- Stretch out
+- Remove
+**WARNING!!! The task implementation is written using WinAPI. Make sure that your IDE supports it before trying to run the program**
