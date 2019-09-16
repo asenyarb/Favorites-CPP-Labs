@@ -1,4 +1,4 @@
-# Favorites-CPP--Labs
+# Favorites-CPP-Labs
 Repository with the most interesting С++ labs written in the first year of university
 ## Structure
 - Every lab is located on its own branch. 
