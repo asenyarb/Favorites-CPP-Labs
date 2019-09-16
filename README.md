@@ -1,3 +1,14 @@
-# Template_classes_and_functions_lab
+# Template_polynomial_class_lab
 ## Task: 
-#### Write a function with a variable number of arguments of different types, which calculates the maximum among the arguments of the int type and located at odd places (numbering with 0). For example, the result of executing func(3, 2, 3.5, 4, 32, 'a', string("abc") ) will be an int type value equal to 4.
+#### Create a template polynomial class that supports:
+- Addition
+- Subtraction
+- Multiplication
+- Division (by both another polynomial and a number)
+- Swap of two polynomials
+#### The class must contain:
+- Iterator
+- Copy and move constructor
+- Copy and mov operator "="
+- Overloaded input and output operators ("<<" and ">>")
+#### The class must work with both standard types and custom classes

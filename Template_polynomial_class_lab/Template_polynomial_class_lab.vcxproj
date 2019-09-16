@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{C8B05692-67C9-49DC-AA12-4639323F3D5D}</ProjectGuid>
-    <RootNamespace>Templateclassesandfunctionslab</RootNamespace>
+    <ProjectGuid>{DAB99CFC-3602-43DE-83D4-A67EC20008DA}</ProjectGuid>
+    <RootNamespace>Templatepolynomialclasslab</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
